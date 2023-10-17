@@ -1,0 +1,13 @@
+Rice 3.01
+[+] BlocksMC LongJump (Wont flags if the distance is not very far)
+[+] Visuals Updates
+[+] WTap
+[+] Notifications
+[+] Breaker
+[+] AntiBot
+[+] Blink
+[-] ClickGui Lags (fr fr)
+[+] Some updates I don't even remember
+Only vanilla works:
+[+] NoFall
+[+] Regen
